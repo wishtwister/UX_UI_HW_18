@@ -1,0 +1,22 @@
+{
+  "name": "ux_ui_hw_18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wishtwister/UX_UI_HW_18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wishtwister/UX_UI_HW_18/issues"
+  },
+  "homepage": "https://github.com/wishtwister/UX_UI_HW_18#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
